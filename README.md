@@ -55,15 +55,24 @@ Run the demo in one of the three modes:
 python main.py routing --query "Show me python code for binary search"
 ```
 
+![lcel](https://github.com/user-attachments/assets/a845f349-7c70-478e-948c-638136e96d32)
+
+
 ### 2. Parallel RAG Demo
 ```bash
 python main.py parallel_rag --query "What is LCEL?"
 ```
 
+<img width="1008" height="212" alt="demo-2" src="https://github.com/user-attachments/assets/eb38e986-5ea4-4bd3-a263-598a5d01d02c" />
+
+
 ### 3. Streaming Middleware Demo
 ```bash
 python main.py stream_middleware --query "My email is test@example.com"
 ```
+
+<img width="1196" height="381" alt="demo-3" src="https://github.com/user-attachments/assets/d97c3209-6e5a-47f6-9a7e-7ba8548bb836" />
+
 
 ## Project Structure
 
